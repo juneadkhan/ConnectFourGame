@@ -1,4 +1,4 @@
-#ConnectFourGame
+# ConnectFourGame
 
 This is a program that implements a simple TicTacToe Game using Java and the Swing GUI Toolkit.
 
